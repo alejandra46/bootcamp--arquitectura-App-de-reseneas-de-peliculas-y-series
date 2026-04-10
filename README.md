@@ -32,7 +32,7 @@ gustos de cine.
 - [ ] Menu con varios generos de pelicula
 - [ ] Vsibilidad de varias peliculas o series 
 - [ ] Espacio de reseña 
-- [ ] Visibilidad de rseñas de otros usuarios
+- [ ] Visibilidad de reseñas de otros usuarios
 
 ---
 
